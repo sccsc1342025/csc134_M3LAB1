@@ -1,7 +1,7 @@
 // CSC 134
 // M3LAB1
 // Sebastian Camacho
-// 03/2/2025
+// 03/02/2025
 
 #include <iostream>
 using namespace std;
