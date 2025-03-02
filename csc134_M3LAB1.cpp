@@ -38,7 +38,7 @@ int main()
 // defining orginal variables
 void chooseBottle1() {
     cout << "You chose Bottle 1" << endl;
-    cout << "Congradualations you get to live!" << endl;
+    cout << "Congradulations you get to live!" << endl;
 }
 
 void chooseBottle2() {
